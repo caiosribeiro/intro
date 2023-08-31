@@ -1,0 +1,71 @@
+body{
+	font-size: 16px;
+	width: 95%;
+}
+
+
+#article-esquerda{
+	margin-top: 17%;
+	padding-left: 12%;
+	width: 100%;
+}
+
+#oferta{
+	margin-top: 15%;
+	border: 1px solid #6055a5;
+	border-radius: 5px;
+	width: 80%;
+	text-align: center;
+	color: white;
+	background: #6055a5;
+}
+
+#campo{
+	margin-top: 3%;
+	border: 1px solid white;
+	border-radius: 5px;
+	width: 80%;
+	background: white;
+}
+
+.campo-de-texto{
+	border: 1px solid black;
+	border-radius: 5px;
+	padding-left: 5%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	color: 	#3e3c49;
+	text-transform: capitalize;
+	width: 90%;
+}
+
+#email{
+	text-transform: none;
+}
+
+#img_erro1, #img_erro2, #img_erro3, #img_erro4{
+	margin-top: -10%;
+	margin-left: 80%;
+	display: none;
+}
+
+#botao{
+	width: 90%;
+	background: #38cc8c;
+	color: white;
+	text-transform: uppercase;
+}
+
+#botao:hover{
+	opacity: 0.7;
+}
+
+#detalhe{
+	color: #b9b6d3;
+	text-align: center;
+	font-size: 12px;
+}
+
+#detalhe spam{
+	color: red;
+}
