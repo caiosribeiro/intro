@@ -74,5 +74,6 @@ body{
 	#article-direita{
 		position: relative;
 		left: 10%;
+		width: 85%;
 	}
 }
